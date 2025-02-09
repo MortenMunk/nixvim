@@ -1,6 +1,7 @@
 {
   plugins.rustaceanvim = {
     enable = true;
+    rustAnalyzerPackage = null;
 
     settings = {
       tools.test_executor = "background";
