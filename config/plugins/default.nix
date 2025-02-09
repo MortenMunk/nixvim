@@ -1,6 +1,7 @@
 {
   imports = [
     ./autopairs.nix
+    ./cmp.nix
     ./lz-n.nix
     ./lsp.nix
     ./lualine.nix
@@ -12,5 +13,6 @@
     ./telescope.nix
     ./treesitter.nix
     ./rust.nix
+    ./nvim-tree.nix
   ];
 }
