@@ -10,12 +10,7 @@
   viAlias = true;
   vimAlias = true;
 
-  colorschemes.catppuccin = {
-    enable = true;
-    settings = {
-      flavour = "macchiato";
-    };
-  };
+  colorschemes.gruvbox.enable = true;
 
   extraPackages = with pkgs; [
     ripgrep
