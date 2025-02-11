@@ -1,5 +1,6 @@
 {
   imports = [
+    ./colorizer.nix
     ./autopairs.nix
     ./cmp.nix
     ./lz-n.nix
