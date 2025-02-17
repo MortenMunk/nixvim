@@ -51,6 +51,7 @@
         cpp = ["clang-format"];
         c = ["clang-format"];
         go = ["gofmt"];
+        dart = ["dart_format"];
       };
     };
   };

@@ -112,6 +112,9 @@
 
       # GO
       gopls.enable = true;
+
+      # DART
+      dartls.enable = true;
     };
   };
 }
