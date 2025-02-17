@@ -13,7 +13,7 @@
     ./which-key.nix
     ./telescope.nix
     ./treesitter.nix
-    #./rust.nix
+    ./rust.nix
     ./nvim-tree.nix
   ];
 }

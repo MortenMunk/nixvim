@@ -87,7 +87,7 @@
           username = "morten";
         in {
           formatting.command = ["alejandra"];
-          #nixpkgs.expr = "import ${getFlake}.inputs.nixpkgs { }";
+          nixpkgs.expr = "import ${getFlake}.inputs.nixpkgs { }";
           options = {
             nixos.expr = "${getFlake}.nixosConfigurations.nixos.options";
             nixvim.expr = "${getFlake}.packages.${pkgs.system}.nvim.options";

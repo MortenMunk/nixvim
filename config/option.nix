@@ -6,9 +6,9 @@
     signcolumn = "yes";
     expandtab = true;
     smartindent = true;
-    tabstop = 4;
-    softtabstop = 4;
-    shiftwidth = 4;
+    tabstop = 2;
+    softtabstop = 2;
+    shiftwidth = 2;
     mouse = "";
     guicursor = "n-c-sm:block,i-ci-ve:ver25,r-cr-o-v:hor20";
     updatetime = 100;
