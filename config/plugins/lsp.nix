@@ -104,6 +104,9 @@
       # TYPESCRIPT/JAVASCRIPT
       ts_ls.enable = true;
 
+      #SVELTE
+      svelte.enable = true;
+
       # C & C++
       clangd.enable = true;
 
