@@ -118,6 +118,9 @@
 
       # DART
       dartls.enable = true;
+
+      # PYTHON
+      pyright.enable = true;
     };
   };
 }
