@@ -6,7 +6,7 @@
     taplo
     biome
     prettierd
-    black
+    ruff
   ];
 
   plugins.conform-nvim = {
@@ -43,7 +43,7 @@
         javascriptreact = ["biome"];
         typescript = ["biome"];
         typescriptreact = ["biome"];
-        python = ["black"];
+        python = ["ruff"];
         nix = ["alejandra"];
         rust = ["rustfmt"];
         toml = ["taplo"];
