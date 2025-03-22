@@ -14,6 +14,6 @@
     ./telescope.nix
     ./treesitter.nix
     ./rust.nix
-    ./nvim-tree.nix
+    ./oil.nix
   ];
 }

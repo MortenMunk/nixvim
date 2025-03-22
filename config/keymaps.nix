@@ -4,13 +4,13 @@ in {
   globals.mapleader = " ";
 
   keymaps = [
-    # nvim-tree
+    # oil
     {
       mode = normal;
       key = "<leader>F";
-      action = ":NvimTreeOpen<cr>";
+      action = ":Oil<cr>";
       options = {
-        desc = "Open file tree";
+        desc = "Open directory buffer";
         silent = true;
         noremap = true;
       };

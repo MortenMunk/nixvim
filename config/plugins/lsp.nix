@@ -110,9 +110,6 @@
       # C & C++
       clangd.enable = true;
 
-      # Coq
-      coq_lsp.enable = true;
-
       # GO
       gopls.enable = true;
 
