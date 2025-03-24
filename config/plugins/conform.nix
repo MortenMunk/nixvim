@@ -43,7 +43,7 @@
         javascriptreact = ["biome"];
         typescript = ["biome"];
         typescriptreact = ["biome"];
-        python = ["ruff"];
+        python = ["ruff_format"];
         nix = ["alejandra"];
         rust = ["rustfmt"];
         toml = ["taplo"];
