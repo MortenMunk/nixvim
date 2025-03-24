@@ -12,13 +12,6 @@
   plugins.conform-nvim = {
     enable = true;
 
-    lazyLoad.settings = {
-      cmd = [
-        "ConformInfo"
-      ];
-      event = ["BufWrite"];
-    };
-
     settings = {
       notify_on_error = true;
       format_on_save = {

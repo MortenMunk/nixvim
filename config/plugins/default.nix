@@ -3,7 +3,6 @@
     ./colorizer.nix
     ./autopairs.nix
     ./cmp.nix
-    ./lz-n.nix
     ./lsp.nix
     ./lualine.nix
     ./barbar.nix
