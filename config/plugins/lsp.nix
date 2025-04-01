@@ -118,6 +118,9 @@
 
       # PYTHON
       pyright.enable = true;
+
+      # HTML
+      html.enable = true;
     };
   };
 }

@@ -7,6 +7,8 @@
     biome
     prettierd
     ruff
+    superhtml
+    stylelint
   ];
 
   plugins.conform-nvim = {
@@ -20,18 +22,8 @@
       };
 
       formatters_by_ft = {
-        html = [
-          [
-            "prettierd"
-            "prettier"
-          ]
-        ];
-        css = [
-          [
-            "prettierd"
-            "prettier"
-          ]
-        ];
+        html = ["superhtml"];
+        css = ["stylelint"];
         javascript = ["biome"];
         javascriptreact = ["biome"];
         typescript = ["biome"];
