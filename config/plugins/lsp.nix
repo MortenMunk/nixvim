@@ -121,6 +121,9 @@
 
       # HTML
       html.enable = true;
+
+      # Coq aka rocq
+      coq-nvim.enable = true;
     };
   };
 }
