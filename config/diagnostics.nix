@@ -1,3 +1,3 @@
 {
-  diagnostics.signs = false;
+  diagnostic.settings.signs = false;
 }
