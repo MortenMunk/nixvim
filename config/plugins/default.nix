@@ -1,6 +1,5 @@
 {
   imports = [
-    ./colorizer.nix
     ./autopairs.nix
     ./cmp.nix
     ./lsp.nix
@@ -14,5 +13,6 @@
     ./treesitter.nix
     ./rust.nix
     ./oil.nix
+    ./vimtex.nix
   ];
 }
