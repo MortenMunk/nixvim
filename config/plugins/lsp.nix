@@ -121,6 +121,9 @@
 
       # HTML
       html.enable = true;
+
+      # LaTeX
+      texlab.enable = true;
     };
   };
 }
