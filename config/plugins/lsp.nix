@@ -126,7 +126,7 @@
       texlab.enable = true;
 
       # Typst
-      typst-lsp.enable = true;
+      typst_lsp.enable = true;
     };
   };
 }
