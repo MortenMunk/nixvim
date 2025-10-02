@@ -14,5 +14,6 @@
     ./rust.nix
     ./oil.nix
     ./vimtex.nix
+    ./typst.nix
   ];
 }

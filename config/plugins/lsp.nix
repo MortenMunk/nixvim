@@ -124,6 +124,9 @@
 
       # LaTeX
       texlab.enable = true;
+
+      # Typst
+      typst-lsp.enable = true;
     };
   };
 }

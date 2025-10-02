@@ -7,6 +7,7 @@
     biome
     prettierd
     ruff
+    typstyle
   ];
 
   plugins.conform-nvim = {
@@ -35,6 +36,7 @@
         c = ["clang-format"];
         go = ["gofmt"];
         dart = ["dart_format"];
+        typst = ["typstyle"];
       };
     };
   };
