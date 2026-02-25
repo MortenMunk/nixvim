@@ -4,7 +4,7 @@
     relativenumber = true;
     numberwidth = 5;
     signcolumn = "yes";
-    expandtab = true;
+    expandtab = false;
     smartindent = true;
     tabstop = 2;
     softtabstop = 2;
