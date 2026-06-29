@@ -15,5 +15,6 @@
     ./oil.nix
     ./vimtex.nix
     ./typst.nix
+    ./zk.nix
   ];
 }

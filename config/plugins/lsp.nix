@@ -124,6 +124,7 @@
 
       # LaTeX
       texlab.enable = true;
+      zk.enable = true;
     };
   };
 }
